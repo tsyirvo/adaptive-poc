@@ -1,0 +1,5 @@
+export { default as Favorites } from "./FavoritesIcon"
+export { default as Home } from "./HomeIcon"
+export { default as Inbox } from "./InboxIcon"
+export { default as Lists } from "./ListsIcon"
+export { default as Profile } from "./ProfileIcon"
